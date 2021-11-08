@@ -6,7 +6,7 @@
 		document.write(YourName, ", I think that is a nice name.","<br>");
 		console.log(YourName, "Has this many letters", YourName.length);
 		
-	if (YourName = "AbrahamLincoln") {
+	if (YourName = "Abraham Lincoln") {
 		document.write("No it's not, you're dead,");
 	}
 	
