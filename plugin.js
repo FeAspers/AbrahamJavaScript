@@ -6,15 +6,17 @@
 		document.write(YourName, ", I think that is a nice name.","<br>");
 		console.log(YourName, "Has this many letters", YourName.length);
 		
-	if (YourName = "Abraham Lincoln") {
+	if (YourName == "Abraham Lincoln") {
 		document.write("No it's not, you're dead,");
 	}
 	
 	var FavoriteTeam = "";
 		FavoriteTeam = prompt ("Enter your favorite team.");
 	
-	if (FavoriteTeam = "Tigers") {
+	if (FavoriteTeam == "Tigers","tigers") {
 		document.write("<br><h1>","You have good taste in teams!","</h1>");
+		document.write("<br><img src='tiger_head.png' alt='tiger head' height='125px'");
 	} else {
 		document.write("<br>","Tigers are better.");
+		document.write("<br><img src='cancel.png' alt='button cancel' height='100px'");
 	}
