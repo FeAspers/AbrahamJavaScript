@@ -13,7 +13,7 @@
 	var FavoriteTeam = "";
 		FavoriteTeam = prompt ("Enter your favorite team.");
 	
-	if (FavoriteTeam == "Tigers","tigers") {
+	if (FavoriteTeam == "Tigers") {
 		document.write("<br><h1>","You have good taste in teams!","</h1>");
 		document.write("<br><img src='https://github.com/winstontom/AbrahamJavaScript/blob/main/images/LSU-Tiger-Head.png?raw=true' alt='tiger head' height='125px'");
 	} else {
