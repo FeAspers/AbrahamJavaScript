@@ -15,7 +15,7 @@
 	
 	if (FavoriteTeam == "Tigers","tigers") {
 		document.write("<br><h1>","You have good taste in teams!","</h1>");
-		document.write("<br><img src='tiger_head.png' alt='tiger head' height='125px'");
+		document.write("<br><img src='https://github.com/winstontom/AbrahamJavaScript/blob/main/images/LSU-Tiger-Head.png?raw=true' alt='tiger head' height='125px'");
 	} else {
 		document.write("<br>","Tigers are better.");
 		document.write("<br><img src='https://github.com/winstontom/AbrahamJavaScript/blob/main/images/buttoncancel.png?raw=true' alt='button cancel' height='100px'");
