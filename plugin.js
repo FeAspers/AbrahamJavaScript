@@ -18,5 +18,5 @@
 		document.write("<br><img src='tiger_head.png' alt='tiger head' height='125px'");
 	} else {
 		document.write("<br>","Tigers are better.");
-		document.write("<br><img src='cancel.png' alt='button cancel' height='100px'");
+		document.write("<br><img src='https://github.com/winstontom/AbrahamJavaScript/blob/main/images/buttoncancel.png?raw=true' alt='button cancel' height='100px'");
 	}
